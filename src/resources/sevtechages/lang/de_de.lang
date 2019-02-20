@@ -2,12 +2,12 @@
 ###### SevTech: Ages Custom Advancements ######
 ###############################################
 # Stage 0
-advancements.stage0.abyssalbiome.title=Enter the Darklands
-advancements.stage0.abyssalbiome.description=Find and enter a Abyssalcraft dark biome. These biomes exist in colder temperature areas. The world is setup in a logical heatmap meaning hot or cold biomes can be reached by traveling North or South
+advancements.stage0.abyssalbiome.title=Betrete die Darklands
+advancements.stage0.abyssalbiome.description=Finde und betrete ein Abyssalcraft dark Biome. Die Biome sind in kälteren Arealen der Welt. Die Welt erstellt eine logische wärmekarte. Das bedeutet, dass warme bzw. kalte Biome erreicht werden können wenn man in den Norden bzw Süden reist.
 
 
-advancements.stage0.abyssalgem.title=Dark Gems
-advancements.stage0.abyssalgem.description=Acquire a Shadow Gem from Shadow Creatures residing in the darklands. Smaller creatures have smaller gems while the larger, more dangerous Shadow Creatures drop full gems
+advancements.stage0.abyssalgem.title=Dunkle Edelsteine
+advancements.stage0.abyssalgem.description=Sammle einen Schattenedelstein von den Schattenkreaturen in den Darklands. Kleine Kreaturen haben kleinere Edelsteine während größere und gefährlichere Schattenkreaturen ganze Edelsteine fallen lassen
 
 
 advancements.stage0.atlas.title=Lost but Now Found
